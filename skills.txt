@@ -1,0 +1,64 @@
+# Format:  skill name: alias1, alias2
+# Matching is case-insensitive. Add your own skills/aliases below.
+
+# Programming
+python: py, python3
+java: core java
+c++: cpp
+c programming: c language
+javascript: js, java script
+typescript: ts
+sql: structured query language
+mysql
+postgresql: postgres, pgsql
+mongodb: mongo
+dsa: data structures and algorithms, data structures
+oop: oops, object oriented programming, object oriented
+
+# Data science / AI
+pandas
+numpy
+matplotlib
+seaborn
+machine learning: ml
+deep learning: dl
+artificial intelligence: ai
+nlp: natural language processing
+computer vision
+generative ai: genai, gen ai
+llm: llms, large language models
+tensorflow
+pytorch
+scikit-learn: sklearn, scikit learn
+opencv
+data analysis: data analytics
+data visualization: data visualisation
+eda: exploratory data analysis
+statistics: statistical analysis
+feature engineering
+model deployment
+
+# Tools
+excel: ms excel, microsoft excel
+power bi: powerbi
+tableau
+git
+github
+docker
+linux
+jupyter: jupyter notebook
+google colab: colab
+streamlit
+flask
+fastapi
+rest api: rest apis, restful api
+api: apis
+
+# Web / cloud
+html
+css
+react: reactjs, react.js
+node.js: nodejs, node js
+aws: amazon web services
+azure: microsoft azure
+gcp: google cloud
